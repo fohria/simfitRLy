@@ -1,0 +1,1 @@
+some task versions may have static/fixed sequences of stimuli and/or rewards. we store those here.
