@@ -1,0 +1,16 @@
+name: simfitRLy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - seaborn
+  - pandas
+  - cmdstanpy
+  - arviz
+  - numba
+  - ipykernel
+  - pyarrow
+  - pip
+  - pip:
+    - pyabc
